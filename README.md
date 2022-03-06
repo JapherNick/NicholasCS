@@ -1,4 +1,4 @@
-## Olá! Eu sou o Nicholas Cunha!
+## Olá! Eu sou o Nicholas Cunha Santos!
 👨‍🎓 Hoje estou estudando diversos cursos na Udemy como: Banco de Dados completo, lógica de programação(C,C++,C#,Java e Python), Inglês e também desenvolvimento Web Completo(JavaScript, HTML, CSS, Bootstrap, Angular, MongoDB etc..)
 🤵 Hoje trabalho como Analista de Suporte porém estudando para começar na área.
 👨 Pronome: Ele/Dele.
