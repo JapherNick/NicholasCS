@@ -3,11 +3,10 @@
 🤵 Hoje trabalho como Analista de Suporte porém estudando para começar na área.
 👨 Pronome: Ele/Dele.
 <div align="center">
-    <a href=https://github.com/JapherNick>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JapherNick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-       <a https://github.com/JapherNick/Sorveteria-Csharp.git>
+   <a href="https://github.com/JapherNick">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JapherNick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JapherNick&layout=compact&langs_count=7&theme=dracula"/>
-
+</div>
 </div>
   <div style="display: inline_block"><br>
    <img align="center" alt="Nick-C" height="60" width="60"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
